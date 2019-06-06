@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author       = { "Jordan Camara" => "jcamara@autosoftdms.com" }
   s.platform     = :ios, "8.0"
-  s.source       = { :git => "https://github.com/rt-syscom/SignalR-Swift.git", :commit => "c28f567afb7599395cf5c4e002b97f7c95e1a7f7" }
+  s.source       = { :git => "https://github.com/rt-syscom/SignalR-Swift.git", :commit => "5d6646ee6daa44cbfd86d17925beaf7911876538" }
 
   s.source_files  = "SignalR-Swift/**/*.swift"
   s.exclude_files = "Classes/Exclude"
